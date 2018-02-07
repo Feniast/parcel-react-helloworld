@@ -1,0 +1,14 @@
+.hello-world {
+  
+  &-inner {
+    display: flex;
+  }
+
+  &-letter {
+    display: inline-block;
+    font-size: 60px;
+    color: white;
+    text-shadow: 4px 4px 5px rgba(0, 0, 0, 0.2);
+    opacity: 0;
+  }
+}
